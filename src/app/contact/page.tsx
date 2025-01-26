@@ -10,7 +10,7 @@ function Contact() {
         <h1 className="text-4xl font-bold mb-6 text-center text-blue-600">Contact Saylani Welfare Trust</h1>
         
         <p className="text-lg leading-relaxed mb-4">
-          Saylani Welfare Trust is always open to hearing from you! Whether you have inquiries, feedback, or would like to learn more about our services and programs, feel free to reach out. Here's how you can get in touch with us:
+          Saylani Welfare Trust is always open to hearing from you! Whether you have inquiries, feedback, or would like to learn more about our services and programs, feel free to reach out. Heres how you can get in touch with us:
         </p>
 
         <div className="mb-6">
